@@ -1,5 +1,5 @@
 const app = function () {
-	const API_BASE = 'http://localhost:7071/api/data/blog/default';
+	const API_BASE = 'http://localhost:7073/api/data/blog/default';
 	const API_KEY = 'letmein';
 	const CATEGORIES = ['general', 'financial', 'technology', 'marketing'];
 
